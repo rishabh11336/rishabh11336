@@ -21,7 +21,7 @@
 - [DBMS OPPE Prepration](https://www.youtube.com/playlist?list=PLOWpNXd4d3vQETIZYvCZxTdewFYCo5b47)
 - [YouTube Downloader gui to exe](https://youtu.be/jFiN497Jpes)
 - [conda virtual environment & commands | Anaconda](https://youtu.be/oCY4NJWwYAo)
-- [OPPE Exams in IITM](https://www.youtube.com/playlist?list=PLOWpNXd4d3vQ359QkTPDCunKZ32SXX2bF)
+- [OPPE Exams in IIT Madras](https://www.youtube.com/playlist?list=PLOWpNXd4d3vQ359QkTPDCunKZ32SXX2bF)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
