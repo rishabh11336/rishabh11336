@@ -26,13 +26,13 @@
  
 </td><td valign="top" width="50%">
 
-## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
+## <a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="25"/></a>   Recent Articles on medium.com     
  <!-- DEVTO-BLOG-LIST:START -->
-- [Rust 🦀 CRUD Rest API with Docker 🐳](https://dev.to/francescoxx/rust-crud-rest-api-3n45)
-- [PHP CRUD Rest API with Docker](https://dev.to/francescoxx/php-crud-rest-api-with-docker-2c3f)
-- [Kubernetes quick tutorial](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)
-- [C# &lpar;C Sharp&rpar; CRUD Rest API using .NET 7, ASP.NET, Entity Framework, Postgres, Docker and Docker Compose](https://dev.to/francescoxx/c-c-sharp-crud-rest-api-using-net-7-aspnet-entity-framework-postgres-docker-and-docker-compose-493a)
-- [Dockerize a Python application](https://dev.to/francescoxx/dockerize-a-python-application-1olg)
+- [Session in the flask for login](https://medium.com/@asusrishabh/session-in-the-flask-for-login-3c2f4132a3d8)
+- [conda virtual environment & commands](https://medium.com/@asusrishabh/conda-virtual-environment-commands-9877b4730220)
+- [Convert Python Program to exe](https://medium.com/@asusrishabh/convert-python-program-to-exe-c773345716df)
+- [Python program for Matrix Multiplication](https://medium.com/@asusrishabh/python-program-for-matrix-multiplication-5c1de08bb105)
+- [Requirements.txt in Python](https://medium.com/@asusrishabh/requirements-txt-in-python-947b0b43bbe6)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
