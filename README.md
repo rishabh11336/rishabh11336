@@ -3,7 +3,6 @@
 - 🌱 I shall/will keep learning DS and DSA
 - 💞️ I’m looking to collaborate on DJANGO, FLASK, FASTAPI, etc
 - 📫 How to reach me contact me on rishabh11336@gmail.com
-![Untitled design1](https://user-images.githubusercontent.com/67859818/173318249-18052157-c2d3-4f98-be42-a163ed21e54e.png)
 
 <div align=center>
 <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="70"/></a> 
@@ -16,8 +15,7 @@
 &ensp;<a href="https://www.youtube.com/@one-arena"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="90"/></a>
 &ensp;<a href="https://www.linkedin.com/in/rishabh11336/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="70"/></a> 
 &ensp;<a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="60"/></a> 
-&ensp;<a href="https://www.onearena.co.in/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a> 
-&ensp;<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
+&ensp;<a href="https://www.onearena.co.in/"><img src="Screenshot 2022-08-19 042754.png" title="oneArena" alt="oneArena" width="60"/></a>
 </div>
 
 ## <a href="[https://www.youtube.com/@one-arena](https://www.youtube.com/@one-arena)"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   YouTube Channel
