@@ -5,6 +5,19 @@
 - 📫 How to reach me contact me on rishabh11336@gmail.com
 ![Untitled design1](https://user-images.githubusercontent.com/67859818/173318249-18052157-c2d3-4f98-be42-a163ed21e54e.png)
 
+<div align=center>
+<a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="70"/></a> 
+<a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="200"/></a> 
+&ensp;<a href="https://www.twitch.tv/francesco_ciulla"><img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" title="Twitch" alt="Twitch Account" width="60"/></a> 
+&ensp;<a href="https://www.youtube.com/c/FrancescoCiulla"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
+&ensp;<a href="https://discord.com/invite/cRjhjFRRre"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
+&ensp;<a href="https://www.linkedin.com/in/francesco-ciulla-roma/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
+&ensp;<a href="https://www.instagram.com/francescociullaroma"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
+&ensp;<a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
+&ensp;<a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a> 
+&ensp;<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
+</div>
+
 ## <a href="[https://www.youtube.com/@one-arena](https://www.youtube.com/@one-arena)"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   YouTube Channel
 
 [https://www.youtube.com/@one-arena](https://www.youtube.com/@one-arena)
