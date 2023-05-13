@@ -12,12 +12,11 @@
 &ensp;<a href="https://getbootstrap.com/"><img src="bootstrap-fill.svg" title="Bootstrap" alt="Bootstrap" width="70"/></a> 
 &ensp;<a href="https://www.javascript.com/"><img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" title="Javascript" alt="Javascript" width="60"/></a> 
 &ensp;<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" title="Jupyter" alt="Jupyter" width="240"/></a> 
-&ensp;<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" title="FastApi" alt="FastApi" width="70"/></a> 
+&ensp;<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" title="FastApi" alt="FastApi" width="70"/></a> <br>
 &ensp;<a href="https://www.youtube.com/@one-arena"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="90"/></a>
 &ensp;<a href="https://www.linkedin.com/in/rishabh11336/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="70"/></a> 
-&ensp;<a href="https://www.instagram.com/francescociullaroma"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
-&ensp;<a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEVto Blog" width="30"/></a>
-&ensp;<a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a> 
+&ensp;<a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="60"/></a> 
+&ensp;<a href="https://www.onearena.co.in/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a> 
 &ensp;<a href="https://app.daily.dev/Francesco"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" alt="daily.devGitHub" width="30"/></a>
 </div>
 
