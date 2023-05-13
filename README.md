@@ -6,7 +6,7 @@
 
 <div align=center>
 <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="70"/></a> 
-<a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="200"/></a> 
+<a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="150"/></a> 
 &ensp;<a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="flask-svgrepo-com.svg" title="Flask" alt="Flask" width="80"/></a> 
 &ensp;<a href="https://getbootstrap.com/"><img src="bootstrap-fill.svg" title="Bootstrap" alt="Bootstrap" width="70"/></a> 
 &ensp;<a href="https://www.javascript.com/"><img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" title="Javascript" alt="Javascript" width="60"/></a> 
@@ -16,6 +16,7 @@
 &ensp;<a href="https://www.linkedin.com/in/rishabh11336/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="70"/></a> 
 &ensp;<a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="60"/></a> 
 &ensp;<a href="https://www.onearena.co.in/"><img src="Screenshot 2022-08-19 042754.png" title="oneArena" alt="oneArena" width="60"/></a>
+&ensp;<a href="https://twitter.com/rishabh11336"><img src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89da.svg" title="Twitter" alt="twitter" width="60"/></a>
 </div>
 
 ## <a href="[https://www.youtube.com/@one-arena](https://www.youtube.com/@one-arena)"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   YouTube Channel
