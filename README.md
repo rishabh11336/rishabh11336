@@ -13,7 +13,7 @@
 &ensp;<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" title="Jupyter" alt="Jupyter" width="240"/></a> 
 &ensp;<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" title="FastApi" alt="FastApi" width="70"/></a> <br>
 &ensp;<a href="https://www.youtube.com/@one-arena"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="80"/></a>
-&ensp;<a href="https://www.linkedin.com/in/rishabh11336/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="70"/></a> 
+&ensp;<a href="https://www.linkedin.com/in/rishabh11336/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="60"/></a> 
 &ensp;<a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="60"/></a> 
 &ensp;<a href="https://www.onearena.co.in/"><img src="Screenshot 2022-08-19 042754.png" title="oneArena" alt="oneArena" width="60"/></a>
 &ensp;<a href="https://twitter.com/rishabh11336"><img src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89da.svg" title="Twitter" alt="twitter" width="60"/></a>
