@@ -31,17 +31,19 @@
 ## <a href="https://www.youtube.com/@one-arena"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Understanding the if __name__ == "__main__": | oneArena](https://youtu.be/YjgWcqUVUuI)
+- [Mojo 🔥 New language for AI developers (first look)](https://youtu.be/P4vL1HKIcKY)
 - [Flask Athentication System](https://www.youtube.com/playlist?list=PLOWpNXd4d3vTlhmOJw0lsfawIXeyj8Sxb)
 - [DBMS OPPE Prepration](https://www.youtube.com/playlist?list=PLOWpNXd4d3vQETIZYvCZxTdewFYCo5b47)
 - [YouTube Downloader gui to exe](https://youtu.be/jFiN497Jpes)
 - [conda virtual environment & commands | Anaconda](https://youtu.be/oCY4NJWwYAo)
-- [OPPE Exams in IIT Madras](https://www.youtube.com/playlist?list=PLOWpNXd4d3vQ359QkTPDCunKZ32SXX2bF)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
 
 ## <a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="25"/></a>   Recent Articles on medium.com     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Understanding the if __name__ == “__main__”:](https://medium.com/@asusrishabh/understanding-the-if-name-main-15538fd9df66)
 - [Session in the flask for login](https://medium.com/@asusrishabh/session-in-the-flask-for-login-3c2f4132a3d8)
 - [conda virtual environment & commands](https://medium.com/@asusrishabh/conda-virtual-environment-commands-9877b4730220)
 - [Convert Python Program to exe](https://medium.com/@asusrishabh/convert-python-program-to-exe-c773345716df)
