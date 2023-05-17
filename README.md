@@ -31,12 +31,12 @@
 ## <a href="https://www.youtube.com/@one-arena"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [My First Open Source Contribution to Anaconda](https://youtu.be/y7VSdPXVC8o)
 - [Understanding the if __name__ == "__main__": | oneArena](https://youtu.be/YjgWcqUVUuI)
 - [Mojo 🔥 New language for AI developers (first look)](https://youtu.be/P4vL1HKIcKY)
 - [Flask Athentication System](https://www.youtube.com/playlist?list=PLOWpNXd4d3vTlhmOJw0lsfawIXeyj8Sxb)
 - [DBMS OPPE Prepration](https://www.youtube.com/playlist?list=PLOWpNXd4d3vQETIZYvCZxTdewFYCo5b47)
 - [YouTube Downloader gui to exe](https://youtu.be/jFiN497Jpes)
-- [conda virtual environment & commands | Anaconda](https://youtu.be/oCY4NJWwYAo)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
