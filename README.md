@@ -36,7 +36,6 @@
 - [Mojo 🔥 New language for AI developers (first look)](https://youtu.be/P4vL1HKIcKY)
 - [Flask Athentication System](https://www.youtube.com/playlist?list=PLOWpNXd4d3vTlhmOJw0lsfawIXeyj8Sxb)
 - [DBMS OPPE Prepration](https://www.youtube.com/playlist?list=PLOWpNXd4d3vQETIZYvCZxTdewFYCo5b47)
-- [YouTube Downloader gui to exe](https://youtu.be/jFiN497Jpes)
 <!-- YOUTUBE-VIDEOS-LIST:END --> 
  
 </td><td valign="top" width="50%">
@@ -54,6 +53,8 @@
 </td></tr></table>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishabh11336&show_icons=true&theme=tokyonight" align="left" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh11336&layout=compact" align="auto" />
 
 <!---
 rishabh11336/rishabh11336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
