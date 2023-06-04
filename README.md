@@ -54,7 +54,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishabh11336&show_icons=true&theme=tokyonight" align="left" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh11336&layout=compact" align="auto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh11336&hide_progress=true" align="auto" />
 
 <!---
 rishabh11336/rishabh11336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
