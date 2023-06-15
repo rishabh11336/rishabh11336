@@ -52,9 +52,9 @@
 
 </td></tr></table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishabh11336&show_icons=true&theme=tokyonight" align="left" />
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh11336&rank_icon=github)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh11336&hide_progress=true" align="auto" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh11336&hide_progress=true)
 
 <!---
 rishabh11336/rishabh11336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
