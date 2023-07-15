@@ -53,6 +53,24 @@
 
 </td></tr></table>
 
+<!-- Github Statistics  -->
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rishabh11336&theme=highcontrast&ring=407BFF&fire=407BFF&currStreakLabel=FFFFFF&sideLabels=407BFF&border=FFFFFF" />
+</p>
+<p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rishabh11336&hide_title=true&theme=highcontrast&icon_color=407BFF&show_icons=1&border=FFFFFF&title_color=407BFF" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh11336&hide=makefile&hide_title=true&layout=compact&langs_count=6&theme=highcontrast" />
+</p>
+
+<hr/>
+<br/>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Github Profile Trophies</b></h4></p><br>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rishabh11336" /></p>
+<br/>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=rishabh11336&color=0052f7&label=PROFILE+VIEWS"/>
+</p>
+
 <!---
 rishabh11336/rishabh11336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
