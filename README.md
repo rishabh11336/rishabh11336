@@ -1,3 +1,7 @@
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=rishabh11336&color=0052f7&label=PROFILE+VIEWS"/>
+</p>
+
 - 👋 Hi, I’m @rishabh11336
 - 👀 I’m interested in Python and its frame works
 - 🌱 I shall/will keep learning DS and DSA
@@ -66,10 +70,7 @@
 <br/>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Github Profile Trophies</b></h4></p><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rishabh11336" /></p>
-<br/>
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=rishabh11336&color=0052f7&label=PROFILE+VIEWS"/>
-</p>
+
 
 <!---
 rishabh11336/rishabh11336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
