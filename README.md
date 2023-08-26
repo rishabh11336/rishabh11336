@@ -62,8 +62,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=rishabh11336&theme=highcontrast&ring=407BFF&fire=407BFF&currStreakLabel=FFFFFF&sideLabels=407BFF&border=FFFFFF" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rishabh11336&hide_title=true&theme=highcontrast&icon_color=407BFF&show_icons=1&border=FFFFFF&title_color=407BFF" />
-    <img src="https://leetcode-stats-six.vercel.app/api?username=21f1002538" />
+    <img float="left" src="https://github-readme-stats.vercel.app/api?username=rishabh11336&hide_title=true&theme=highcontrast&icon_color=407BFF&show_icons=1&border=FFFFFF&title_color=407BFF" />
+    <img float="right" src="https://leetcode-stats-six.vercel.app/api?username=21f1002538" />
 </p>
 <hr/>
 <br/>
