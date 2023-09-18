@@ -47,6 +47,7 @@
 
 ## <a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="25"/></a>   Recent Articles on medium.com     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Support Vector Machine](https://medium.com/@asusrishabh/support-vector-machine-svm-736fb20b239b)
 - [Understanding the if __name__ == “__main__”:](https://medium.com/@asusrishabh/understanding-the-if-name-main-15538fd9df66)
 - [Session in the flask for login](https://medium.com/@asusrishabh/session-in-the-flask-for-login-3c2f4132a3d8)
 - [conda virtual environment & commands](https://medium.com/@asusrishabh/conda-virtual-environment-commands-9877b4730220)
