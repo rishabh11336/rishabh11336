@@ -35,6 +35,7 @@
 ## <a href="https://www.youtube.com/@one-arena"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to Get Started with Mojo Programming Language🔥🔥](https://youtu.be/5y54FtbLMU8)
 - [Mastering SQL Queries in Postgresql](https://youtu.be/_cBWseETBhw)
 - [My First Open Source Contribution to Anaconda](https://youtu.be/y7VSdPXVC8o)
 - [Understanding the if __name__ == "__main__": | oneArena](https://youtu.be/YjgWcqUVUuI)
