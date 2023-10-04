@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m @rishabh11336
 - 👀 I’m interested in Python and its frame works
-- 🌱 I shall/will keep learning DS and DSA
-- 💞️ I’m looking to collaborate on SVM, Neural Networks, DJANGO, FLASK, FASTAPI, etc
+- 🌱 I shall/will keep learning **DS and DSA**
+- 💞️ I’m looking to collaborate on **SVM, Neural Networks, FLASK**, DJANGO, FASTAPI, etc
 - 📫 How to reach me contact me on rishabh11336@gmail.com
 
 <div align=center>
