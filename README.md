@@ -9,14 +9,14 @@
 - 📫 How to reach me contact me on rishabh11336@gmail.com
 
 <div align=center>
-<a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="70"/></a> 
-<a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="150"/></a> 
-&ensp;<a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="flask-svgrepo-com.svg" title="Flask" alt="Flask" width="80"/></a> 
-&ensp;<a href="https://getbootstrap.com/"><img src="bootstrap-fill.svg" title="Bootstrap" alt="Bootstrap" width="70"/></a> 
-&ensp;<a href="https://www.javascript.com/"><img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" title="Javascript" alt="Javascript" width="60"/></a> 
-&ensp;<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" title="Jupyter" alt="Jupyter" width="240"/></a> 
-&ensp;<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" title="FastApi" alt="FastApi" width="70"/></a> 
-&ensp;<a href="https://scikit-learn.org/stable/"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="scikit-learn" alt="scikit-learn" width="140"/></a> <br>
+<a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="50"/></a> 
+<a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="120"/></a> 
+&ensp;<a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="flask-svgrepo-com.svg" title="Flask" alt="Flask" width="50"/></a> 
+&ensp;<a href="https://getbootstrap.com/"><img src="bootstrap-fill.svg" title="Bootstrap" alt="Bootstrap" width="50"/></a> 
+&ensp;<a href="https://www.javascript.com/"><img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" title="Javascript" alt="Javascript" width="40"/></a> 
+&ensp;<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" title="Jupyter" alt="Jupyter" width="180"/></a> 
+&ensp;<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" title="FastApi" alt="FastApi" width="50"/></a> 
+&ensp;<a href="https://scikit-learn.org/stable/"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="scikit-learn" alt="scikit-learn" width="120"/></a> <br>
 &ensp;<a href="https://www.youtube.com/@one-arena"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="80"/></a>
 &ensp;<a href="https://www.linkedin.com/in/rishabh11336/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="60"/></a> 
 &ensp;<a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="60"/></a> 
