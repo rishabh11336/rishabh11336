@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @rishabh11336
 - 👀 I’m interested in Python and its frame works
 - 🌱 I shall/will keep learning **DS and DSA**
-- 💞️ I’m looking to collaborate on **SVM, Neural Networks, FLASK**, DJANGO, FASTAPI, etc
+- 💞️ I’m looking to collaborate on **Machine Learning, Neural Networks, FLASK**, DJANGO, FASTAPI, etc
 - 📫 How to reach me contact me on rishabh11336@gmail.com
 
 <div align=center>
@@ -15,7 +15,8 @@
 &ensp;<a href="https://getbootstrap.com/"><img src="bootstrap-fill.svg" title="Bootstrap" alt="Bootstrap" width="70"/></a> 
 &ensp;<a href="https://www.javascript.com/"><img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" title="Javascript" alt="Javascript" width="60"/></a> 
 &ensp;<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" title="Jupyter" alt="Jupyter" width="240"/></a> 
-&ensp;<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" title="FastApi" alt="FastApi" width="70"/></a> <br>
+&ensp;<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" title="FastApi" alt="FastApi" width="70"/></a> 
+&ensp;<a href="https://scikit-learn.org/stable/"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="scikit-learn" alt="scikit-learn" width="140"/></a> <br>
 &ensp;<a href="https://www.youtube.com/@one-arena"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="80"/></a>
 &ensp;<a href="https://www.linkedin.com/in/rishabh11336/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="60"/></a> 
 &ensp;<a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="60"/></a> 
