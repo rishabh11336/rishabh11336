@@ -17,14 +17,14 @@
 &ensp;<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" title="Jupyter" alt="Jupyter" width="180"/></a> 
 &ensp;<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" title="FastApi" alt="FastApi" width="50"/></a> 
 &ensp;<a href="https://scikit-learn.org/stable/"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="scikit-learn" alt="scikit-learn" width="120"/></a> <br>
-&ensp;<a href="https://www.youtube.com/@one-arena"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="80"/></a>
+&ensp;<a href="https://www.youtube.com/@one-arena"><img src="https://www.cdnlogo.com/logos/y/92/youtube.svg" title="YouTube" alt="YouTube Account" width="150"/></a>
 &ensp;<a href="https://www.linkedin.com/in/rishabh11336/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="60"/></a> 
 &ensp;<a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="60"/></a> 
 &ensp;<a href="https://www.onearena.co.in/"><img src="Screenshot 2022-08-19 042754.png" title="oneArena" alt="oneArena" width="60"/></a>
 <a href="https://twitter.com/rishabh11336"><img src="icons8-twitter-240.svg" title="Twitter" alt="twitter" width="70"/></a>
 </div>
 
-## <a href="[https://www.youtube.com/@one-arena](https://www.youtube.com/@one-arena)"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   YouTube Channel
+## <a href="[https://www.youtube.com/@one-arena](https://www.youtube.com/@one-arena)"><img src="https://www.cdnlogo.com/logos/y/92/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="100"/> </a>   YouTube Channel
 
 [https://www.youtube.com/@one-arena](https://www.youtube.com/@one-arena)
  
@@ -33,7 +33,7 @@
  
  <table><tr><td valign="top" width="50%">
 
-## <a href="https://www.youtube.com/@one-arena"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
+## <a href="https://www.youtube.com/@one-arena"><img src="https://www.cdnlogo.com/logos/y/92/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="80"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to Get Started with Mojo Programming Language🔥🔥](https://youtu.be/5y54FtbLMU8)
