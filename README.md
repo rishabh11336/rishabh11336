@@ -21,8 +21,8 @@
 &ensp;<a href="https://www.linkedin.com/in/rishabh11336/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="60"/></a> 
 &ensp;<a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="60"/></a> 
 &ensp;<a href="https://www.onearena.co.in/"><img src="Screenshot 2022-08-19 042754.png" title="oneArena" alt="oneArena" width="60"/></a>
-&ensp;<a href="https://twitter.com/rishabh11336"><img src="pytorch-icon.svg" title="Twitter" alt="twitter" width="70"/></a>
-<a href="https://pytorch.org/"><img src="icons8-twitter-240.svg" title="Twitter" alt="twitter" width="70"/></a>
+&ensp;<a href="https://pytorch.org/"><img src="pytorch-icon.svg" title="Twitter" alt="twitter" width="70"/></a>
+<a href="https://twitter.com/rishabh11336"><img src="icons8-twitter-240.svg" title="Twitter" alt="twitter" width="70"/></a>
 </div>
 
 ## <a href="[https://www.youtube.com/@one-arena](https://www.youtube.com/@one-arena)"><img src="https://www.cdnlogo.com/logos/y/92/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="100"/> </a>   YouTube Channel
