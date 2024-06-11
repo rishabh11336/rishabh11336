@@ -37,6 +37,7 @@
 ## <a href="https://www.youtube.com/@one-arena"><img src="https://www.cdnlogo.com/logos/y/92/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="80"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Flask App Deployment on Azure: GitHub CI/CD Tutorial](https://youtu.be/dXZMbF07hDE?si=1fBaWrX_sg9yNtYW)
 - [How to Get Started with Mojo Programming Language🔥🔥](https://youtu.be/5y54FtbLMU8)
 - [Mastering SQL Queries in Postgresql](https://youtu.be/_cBWseETBhw)
 - [My First Open Source Contribution to Anaconda](https://youtu.be/y7VSdPXVC8o)
@@ -50,9 +51,11 @@
 
 ## <a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="25"/></a>   Recent Articles on medium.com     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Confusion Matrix & Metrics in a minute](https://medium.com/@asusrishabh/confusion-matrix-metrics-in-a-minute-e1596872e90b)
+- [Linear Regression](https://medium.com/@asusrishabh/linear-regression-in-a-minute-c298faf54238)
+- [Bayesian Learning in a minute](https://medium.com/@asusrishabh/bayesian-learning-in-a-minute-c93189e8993e)
 - [Support Vector Machine](https://medium.com/@asusrishabh/support-vector-machine-svm-736fb20b239b)
 - [Understanding the if __name__ == “__main__”:](https://medium.com/@asusrishabh/understanding-the-if-name-main-15538fd9df66)
-- [Session in the flask for login](https://medium.com/@asusrishabh/session-in-the-flask-for-login-3c2f4132a3d8)
 - [conda virtual environment & commands](https://medium.com/@asusrishabh/conda-virtual-environment-commands-9877b4730220)
 - [Convert Python Program to exe](https://medium.com/@asusrishabh/convert-python-program-to-exe-c773345716df)
 - [Python program for Matrix Multiplication](https://medium.com/@asusrishabh/python-program-for-matrix-multiplication-5c1de08bb105)
