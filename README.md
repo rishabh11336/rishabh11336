@@ -68,9 +68,8 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rishabh11336&hide_title=true&theme=highcontrast&icon_color=407BFF&show_icons=1&border=FFFFFF&title_color=407BFF" /><br />
     <h3>Leetcode: </h3>
-    <img src="https://leetcode-stats-six.vercel.app/api?username=21f1002538" />
-</div>
-
+    <img src="https://leetcode.card.workers.dev/21f1002538?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
+</div>  
 
 <!---
 rishabh11336/rishabh11336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
