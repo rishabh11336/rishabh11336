@@ -51,6 +51,7 @@
 
 ## <a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="25"/></a>   Recent Articles on medium.com     
  <!-- DEVTO-BLOG-LIST:START -->
+- [Multi-class vs Multi-label in a minute](https://medium.com/@asusrishabh/multiclass-vs-multilabel-classification-in-a-minute-261b6e320061)
 - [Confusion Matrix & Metrics in a minute](https://medium.com/@asusrishabh/confusion-matrix-metrics-in-a-minute-e1596872e90b)
 - [Linear Regression](https://medium.com/@asusrishabh/linear-regression-in-a-minute-c298faf54238)
 - [Bayesian Learning in a minute](https://medium.com/@asusrishabh/bayesian-learning-in-a-minute-c93189e8993e)
@@ -59,7 +60,6 @@
 - [conda virtual environment & commands](https://medium.com/@asusrishabh/conda-virtual-environment-commands-9877b4730220)
 - [Convert Python Program to exe](https://medium.com/@asusrishabh/convert-python-program-to-exe-c773345716df)
 - [Python program for Matrix Multiplication](https://medium.com/@asusrishabh/python-program-for-matrix-multiplication-5c1de08bb105)
-- [Requirements.txt in Python](https://medium.com/@asusrishabh/requirements-txt-in-python-947b0b43bbe6)
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
