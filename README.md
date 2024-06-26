@@ -51,6 +51,7 @@
 
 ## <a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="25"/></a>   Recent Articles on medium.com     
  <!-- DEVTO-BLOG-LIST:START -->
+- [CNNs in a minute](https://medium.com/@asusrishabh/convolutional-neural-networks-cnns-in-a-minute-4c9ae1b9a2cf)
 - [Multi-class vs Multi-label in a minute](https://medium.com/@asusrishabh/multiclass-vs-multilabel-classification-in-a-minute-261b6e320061)
 - [Confusion Matrix & Metrics in a minute](https://medium.com/@asusrishabh/confusion-matrix-metrics-in-a-minute-e1596872e90b)
 - [Linear Regression](https://medium.com/@asusrishabh/linear-regression-in-a-minute-c298faf54238)
