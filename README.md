@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @rishabh11336
 - 👀 I’m interested in Python and its frame works
 - 🌱 I shall/will keep learning **DS and DSA**
-- 💞️ I’m looking to collaborate on **Machine Learning, Neural Networks, PyTorch, FLASK**, DJANGO, FASTAPI, etc
+- 💞️ I’m looking to collaborate on **Machine Learning, Deep Learning, PyTorch, Keras, FLASK**, DJANGO, FASTAPI, etc
 - 📫 How to reach me contact me on rishabh11336@gmail.com
 
 <div align=center>
