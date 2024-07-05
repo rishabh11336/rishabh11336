@@ -51,11 +51,12 @@
 
 ## <a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="25"/></a>   Recent Articles on medium.com     
  <!-- DEVTO-BLOG-LIST:START -->
-- [CNNs in a minute](https://medium.com/@asusrishabh/convolutional-neural-networks-cnns-in-a-minute-4c9ae1b9a2cf)
-- [Multi-class vs Multi-label in a minute](https://medium.com/@asusrishabh/multiclass-vs-multilabel-classification-in-a-minute-261b6e320061)
-- [Confusion Matrix & Metrics in a minute](https://medium.com/@asusrishabh/confusion-matrix-metrics-in-a-minute-e1596872e90b)
+- [Scalars Vectors Matrices & Tensor](https://medium.com/stackademic/scalars-vectors-matrices-tensor-in-a-minute-0ebcd7f8e3b7)
+- [CNNs](https://medium.com/@asusrishabh/convolutional-neural-networks-cnns-in-a-minute-4c9ae1b9a2cf)
+- [Multi-class vs Multi-label](https://medium.com/@asusrishabh/multiclass-vs-multilabel-classification-in-a-minute-261b6e320061)
+- [Confusion Matrix & Metrics](https://medium.com/@asusrishabh/confusion-matrix-metrics-in-a-minute-e1596872e90b)
 - [Linear Regression](https://medium.com/@asusrishabh/linear-regression-in-a-minute-c298faf54238)
-- [Bayesian Learning in a minute](https://medium.com/@asusrishabh/bayesian-learning-in-a-minute-c93189e8993e)
+- [Bayesian Learning](https://medium.com/@asusrishabh/bayesian-learning-in-a-minute-c93189e8993e)
 - [Support Vector Machine](https://medium.com/@asusrishabh/support-vector-machine-svm-736fb20b239b)
 - [Understanding the if __name__ == “__main__”:](https://medium.com/@asusrishabh/understanding-the-if-name-main-15538fd9df66)
 - [conda virtual environment & commands](https://medium.com/@asusrishabh/conda-virtual-environment-commands-9877b4730220)
