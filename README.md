@@ -22,13 +22,6 @@
 &ensp;<a href="https://pytorch.org/"><img src="pytorch-icon.svg" title="Twitter" alt="twitter" width="70"/></a>
 <a href="https://twitter.com/rishabh11336"><img src="icons8-twitter-240.svg" title="Twitter" alt="twitter" width="70"/></a>
 </div>
-
-## <a href="[https://www.youtube.com/@one-arena](https://www.youtube.com/@one-arena)"><img src="https://www.cdnlogo.com/logos/y/92/youtube.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="100"/> </a>   YouTube Channel
-
-[https://www.youtube.com/@one-arena](https://www.youtube.com/@one-arena)
- 
-
-
  
  <table><tr><td valign="top" width="50%">
 
