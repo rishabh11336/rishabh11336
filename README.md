@@ -6,7 +6,6 @@
 - 👀 I’m interested in Python and its frame works
 - 🌱 I shall/will keep learning **DS and DSA**
 - 💞️ I’m looking to collaborate on **Machine Learning, Deep Learning, PyTorch, Keras, Large Language Model, FLASK**, DJANGO, FASTAPI, etc
-- 📫 How to reach me contact me on rishabh11336@gmail.com
 
 <div align=center>
 <a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="50"/></a> 
@@ -17,7 +16,6 @@
 &ensp;<a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" title="Jupyter" alt="Jupyter" width="180"/></a> 
 &ensp;<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" title="FastApi" alt="FastApi" width="50"/></a> 
 &ensp;<a href="https://scikit-learn.org/stable/"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="scikit-learn" alt="scikit-learn" width="120"/></a> <br>
-&ensp;<a href="https://www.youtube.com/@one-arena"><img src="https://www.cdnlogo.com/logos/y/92/youtube.svg" title="YouTube" alt="YouTube Account" width="150"/></a>
 &ensp;<a href="https://www.linkedin.com/in/rishabh11336/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="60"/></a> 
 &ensp;<a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="60"/></a> 
 &ensp;<a href="https://www.onearena.co.in/"><img src="Screenshot 2022-08-19 042754.png" title="oneArena" alt="oneArena" width="60"/></a>
