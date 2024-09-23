@@ -42,6 +42,7 @@
 
 ## <a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="25"/></a>   Recent Articles on medium.com     
  <!-- DEVTO-BLOG-LIST:START -->
+- [SVM’s __Kernel Trick__ in a minute](https://medium.com/@asusrishabh/svms-kernel-trick-in-a-minute-bd0554b31ec0)
 - [Scalars Vectors Matrices & Tensor](https://medium.com/stackademic/scalars-vectors-matrices-tensor-in-a-minute-0ebcd7f8e3b7)
 - [CNNs](https://medium.com/@asusrishabh/convolutional-neural-networks-cnns-in-a-minute-4c9ae1b9a2cf)
 - [Multi-class vs Multi-label](https://medium.com/@asusrishabh/multiclass-vs-multilabel-classification-in-a-minute-261b6e320061)
