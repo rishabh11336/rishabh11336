@@ -50,8 +50,6 @@
 - [Linear Regression](https://medium.com/@asusrishabh/linear-regression-in-a-minute-c298faf54238)
 - [Bayesian Learning](https://medium.com/@asusrishabh/bayesian-learning-in-a-minute-c93189e8993e)
 - [Support Vector Machine](https://medium.com/@asusrishabh/support-vector-machine-svm-736fb20b239b)
-- [Understanding the if __name__ == “__main__”:](https://medium.com/@asusrishabh/understanding-the-if-name-main-15538fd9df66)
-- [conda virtual environment & commands](https://medium.com/@asusrishabh/conda-virtual-environment-commands-9877b4730220)
 - [Convert Python Program to exe](https://medium.com/@asusrishabh/convert-python-program-to-exe-c773345716df)
 - [Python program for Matrix Multiplication](https://medium.com/@asusrishabh/python-program-for-matrix-multiplication-5c1de08bb105)
 <!-- DEVTO-BLOG-LIST:END -->
