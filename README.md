@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=rishabh11336&color=0052f7&label=PROFILE+VIEWS"/>
 </p>
 
-- 👋 Hi, I’m @rishabh11336
+- 👋 Hi, I’m **Rishabh Singh**
 - 👀 I’m interested in Python and its frame works
 - 🌱 I shall/will keep learning **DS and DSA**
 - 💞️ I’m looking to collaborate on **Machine Learning, Deep Learning, PyTorch, Keras, Large Language Model, FLASK**, DJANGO, FASTAPI, etc
