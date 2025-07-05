@@ -40,7 +40,7 @@
  
 </td><td valign="top" width="50%">
 
-## <a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="25"/></a>   Recent Articles on medium.com     
+## <a href="https://medium.com/@asusrishabh"><img src="https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg" title="Medium" alt="Medium" width="25"/></a>   Recent Articles     
  <!-- DEVTO-BLOG-LIST:START -->
 - [**Analytics Vidhya**: Convolutional Neural Networks (CNNs) in a minute](https://community.analyticsvidhya.com/c/datascience/convolutional-neural-networks-cnns-in-minute)
 - [SVM’s __Kernel Trick__ in a minute](https://medium.com/@asusrishabh/svms-kernel-trick-in-a-minute-bd0554b31ec0)
