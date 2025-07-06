@@ -104,6 +104,10 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SVM’s Kernel Trick in a minute](https://medium.com/@asusrishabh/svms-kernel-trick-in-a-minute-bd0554b31ec0?source=rss-1e2fb3c806c3------2)
+- [Scalars Vectors Matrices &amp; Tensor in a minute](https://blog.stackademic.com/scalars-vectors-matrices-tensor-in-a-minute-0ebcd7f8e3b7?source=rss-1e2fb3c806c3------2)
+- [Convolutional Neural Networks &lpar;CNNs&rpar; in a minute](https://ai.plainenglish.io/convolutional-neural-networks-cnns-in-a-minute-4c9ae1b9a2cf?source=rss-1e2fb3c806c3------2)
+- [Multiclass vs Multilabel classification in a minute](https://ai.plainenglish.io/multiclass-vs-multilabel-classification-in-a-minute-261b6e320061?source=rss-1e2fb3c806c3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
