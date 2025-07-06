@@ -20,7 +20,7 @@
   <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" title="PyTorch" alt="PyTorch" width="45"/></a>
   <a href="https://keras.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="45"/></a>
   <a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="100"/></a>
-  <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="Flask" alt="Flask" width="45"/></a>
+  <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="flask-svgrepo-com.svg" title="Flask" alt="Flask" width="45"/></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" title="FastApi" alt="FastApi" width="45"/></a>
   <a href="https://scikit-learn.org/stable/"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="scikit-learn" alt="scikit-learn" width="100"/></a>
   <a href="https://jupyter.org/"><img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" title="Jupyter" alt="Jupyter" width="140"/></a>
