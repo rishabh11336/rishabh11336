@@ -101,6 +101,14 @@
 
 ---
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+
 <p align="center">
   <b>🌱 Always learning. Always building. Let's connect and create something amazing!</b>
 </p>
