@@ -110,6 +110,13 @@
 - [Multiclass vs Multilabel classification in a minute](https://ai.plainenglish.io/multiclass-vs-multilabel-classification-in-a-minute-261b6e320061?source=rss-1e2fb3c806c3------2)
 <!-- BLOG-POST-LIST:END -->
 
+## Open Source Contribution
+1. <a href="https://github.com/conda/conda-build/pull/4782"><img src="https://anaconda.org/static/img/anaconda_org_logo.svg" title="Conda" alt="Conda" width="45"/></a> https://github.com/conda/conda-build/pull/4782
+2. <a href="https://github.com/kdmdelhincr/events/pull/4"><img src="https://github.com/user-attachments/assets/44d15235-8728-4aee-9927-119c1b6cc563" title="kdmdelhincr" alt="kdmdelhincr" width="15"/></a> https://github.com/kdmdelhincr/events/pull/4
+3. https://github.com/moshesipper/Applied-Machine-Learning-Course/pull/1
+4. <a href="https://github.com/python/cpython/pull/134804"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="20"/></a> https://github.com/python/cpython/pull/134804
+
+
 ---
 
 
