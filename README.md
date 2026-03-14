@@ -104,10 +104,10 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FORECASTING in a minute](https://medium.com/@asusrishabh/forecasting-in-a-minute-f145fc6d2e16?source=rss-1e2fb3c806c3------2)
 - [List vs Set in a minute](https://medium.com/@asusrishabh/list-vs-set-in-a-minute-fe8b278d53c9?source=rss-1e2fb3c806c3------2)
 - [SVM’s Kernel Trick in a minute](https://medium.com/@asusrishabh/svms-kernel-trick-in-a-minute-bd0554b31ec0?source=rss-1e2fb3c806c3------2)
 - [Scalars Vectors Matrices &amp; Tensor in a minute](https://blog.stackademic.com/scalars-vectors-matrices-tensor-in-a-minute-0ebcd7f8e3b7?source=rss-1e2fb3c806c3------2)
-- [Convolutional Neural Networks &lpar;CNNs&rpar; in a minute](https://ai.plainenglish.io/convolutional-neural-networks-cnns-in-a-minute-4c9ae1b9a2cf?source=rss-1e2fb3c806c3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Open Source Contribution
