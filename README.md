@@ -104,7 +104,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformers in a minute](https://medium.com/@asusrishabh/transformers-in-a-minute-00bfb19b2225?source=rss-1e2fb3c806c3------2)
+- [Transformers in a minute](https://blog.stackademic.com/transformers-in-a-minute-00bfb19b2225?source=rss-1e2fb3c806c3------2)
 - [FORECASTING in a minute](https://medium.com/@asusrishabh/forecasting-in-a-minute-f145fc6d2e16?source=rss-1e2fb3c806c3------2)
 - [List vs Set in a minute](https://medium.com/@asusrishabh/list-vs-set-in-a-minute-fe8b278d53c9?source=rss-1e2fb3c806c3------2)
 - [SVM’s Kernel Trick in a minute](https://medium.com/@asusrishabh/svms-kernel-trick-in-a-minute-bd0554b31ec0?source=rss-1e2fb3c806c3------2)
